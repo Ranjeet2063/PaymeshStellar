@@ -8,12 +8,9 @@ build
 *.wasm
 
 # Environment variables
-.env
-.env.local
 .env.*.local
 
 # IDE
-.vscode
 .idea
 *.swp
 *.swo
@@ -46,3 +43,4 @@ Cargo.lock
 # Misc
 .cache
 .parcel-cache
+config.bat
